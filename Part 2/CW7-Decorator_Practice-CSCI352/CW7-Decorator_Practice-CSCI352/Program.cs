@@ -44,7 +44,7 @@ namespace CW7_Decorator_Practice_CSCI352
         public void draw()
         {
             base.draw();
-            Console.WriteLine("I am a border decorator, holding a: ");
+            Console.WriteLine("border decorator ");
         }
     }
     class ScrollDecorator : Decorator
@@ -55,7 +55,8 @@ namespace CW7_Decorator_Practice_CSCI352
         }
         public void draw()
         {
-
+            base.draw();
+            Console.WriteLine("scroll decorator ");
         }
     }
     internal class Program
