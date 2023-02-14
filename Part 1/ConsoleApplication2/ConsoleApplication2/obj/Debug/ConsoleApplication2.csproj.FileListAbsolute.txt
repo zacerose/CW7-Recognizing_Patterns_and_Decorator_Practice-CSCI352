@@ -1,0 +1,14 @@
+c:\users\movin\onedrive\documents\visual studio 2015\Projects\ConsoleApplication2\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe.config
+c:\users\movin\onedrive\documents\visual studio 2015\Projects\ConsoleApplication2\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe
+c:\users\movin\onedrive\documents\visual studio 2015\Projects\ConsoleApplication2\ConsoleApplication2\bin\Debug\ConsoleApplication2.pdb
+c:\users\movin\onedrive\documents\visual studio 2015\Projects\ConsoleApplication2\ConsoleApplication2\obj\Debug\ConsoleApplication2.csprojResolveAssemblyReference.cache
+c:\users\movin\onedrive\documents\visual studio 2015\Projects\ConsoleApplication2\ConsoleApplication2\obj\Debug\ConsoleApplication2.exe
+c:\users\movin\onedrive\documents\visual studio 2015\Projects\ConsoleApplication2\ConsoleApplication2\obj\Debug\ConsoleApplication2.pdb
+C:\Users\zacerose\source\repos\CW7-Recognizing_Patterns_and_Decorator_Practice-CSCI352\Part 1\ConsoleApplication2\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe.config
+C:\Users\zacerose\source\repos\CW7-Recognizing_Patterns_and_Decorator_Practice-CSCI352\Part 1\ConsoleApplication2\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe
+C:\Users\zacerose\source\repos\CW7-Recognizing_Patterns_and_Decorator_Practice-CSCI352\Part 1\ConsoleApplication2\ConsoleApplication2\bin\Debug\ConsoleApplication2.pdb
+C:\Users\zacerose\source\repos\CW7-Recognizing_Patterns_and_Decorator_Practice-CSCI352\Part 1\ConsoleApplication2\ConsoleApplication2\obj\Debug\ConsoleApplication2.csproj.AssemblyReference.cache
+C:\Users\zacerose\source\repos\CW7-Recognizing_Patterns_and_Decorator_Practice-CSCI352\Part 1\ConsoleApplication2\ConsoleApplication2\obj\Debug\ConsoleApplication2.csproj.SuggestedBindingRedirects.cache
+C:\Users\zacerose\source\repos\CW7-Recognizing_Patterns_and_Decorator_Practice-CSCI352\Part 1\ConsoleApplication2\ConsoleApplication2\obj\Debug\ConsoleApplication2.csproj.CoreCompileInputs.cache
+C:\Users\zacerose\source\repos\CW7-Recognizing_Patterns_and_Decorator_Practice-CSCI352\Part 1\ConsoleApplication2\ConsoleApplication2\obj\Debug\ConsoleApplication2.exe
+C:\Users\zacerose\source\repos\CW7-Recognizing_Patterns_and_Decorator_Practice-CSCI352\Part 1\ConsoleApplication2\ConsoleApplication2\obj\Debug\ConsoleApplication2.pdb
